@@ -71,8 +71,14 @@ Maps overview             |  Statistics overview
 <br>
 
 # Configuration guide
+<p align="center">
+<img src="Screenshots/config.png" alt= “” width="500" height="280">
+</p>
 
-If you have ever used a similar software to track Path of Exile data, the process is __identical__ to those. <img style="float: right;" src="Screenshots/config.png" alt= “” width="500" height="280">
+___
+
+If you have ever used a similar software to track Path of Exile data, the process is __identical__ to those. 
+
 
 The POESESSID field requires the session ID from the PoE cookie.
 
