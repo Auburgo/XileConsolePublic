@@ -31,7 +31,7 @@ __/\\\_______/\\\___/\\\\\\\\\\\___/\\\_______________/\\\\\\\\\\\\\\\_
 
 Maps overview             |  Statistics overview
 :-------------------------:|:-------------------------:
-<img src="Screenshots/mapOverview.png" alt= “” width="500" height="280">  |  <img src="Screenshots/statsOverview.png" alt= “” width="500" height="280">
+<img src="Screenshots/mapOverview.png" alt= “” width="400" height="230">  |  <img src="Screenshots/statsOverview.png" alt= “” width="400" height="230">
 
 <br>
 <br>
